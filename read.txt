@@ -1,0 +1,1 @@
+This folder consist of simple programs and Excersises included in Eloquent JavaScript
